@@ -1,0 +1,18 @@
+.sablon{height:995px;border:1px solid black}
+.menu {
+    width: 90%;
+    height: 100px;
+    border: 1px solid red;
+    margin: 10px auto 0px auto;
+    text-align: center;
+}
+.middle{width:95%;height:700px;border:1px solid blue;margin:10px auto 0px auto}
+.bottom{width:95%;height:150px;border:1px solid green;margin:10px auto 0px auto;text-align:center}
+.imagesdiv{width:80%;border:1px solid red;margin:10px auto 0px auto;height:410px}
+.images {
+    width:100%;
+    border:1px solid yellow;
+    text-align:center;
+    margin:0px 0px 0px 0px;
+    
+}
